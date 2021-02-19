@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="700" height="300" src="images/aimlinnovate.png">
+  <img src="images/aimlinnovate.png">
 </p>
 
 The following labs will give you hands-on experience with a number of the topics discussed during the AWS Innovate AI/ML Edition.
