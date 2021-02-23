@@ -12,7 +12,7 @@ These labs will remain available after AWS Innovate AI/ML Edition. **You can do 
 
 This lab describes using machine learning (ML) for the automated identification of unhappy customers, also known as customer churn prediction
 
-Duration: Approximately 60 - 90 minutes
+Duration: Approximately 60 minutes
 
 [View lab instructions](http://bit.ly/35OfP4e)
 
@@ -23,7 +23,6 @@ In this lab, you will be building a contact center using Amazon Connect and inte
 Duration: Approximately 60 minutes
 
 [View lab instructions](http://bit.ly/2YRdmF1)
-
 
 ## [Sentiment Analysis Web App](http://bit.ly/35NX9Sb)
 
@@ -37,9 +36,33 @@ Duration: Approximately 30 minutes
 
 In this lab you will learn the basics of how to use Amazon Personalize in order to create a recommendation system. Be aware that the data upload and training steps do take a long period to perform.
 
-Duration: Approximately 60 - 90 minutes
+Duration: Approximately 90 minutes
 
 [View lab instructions](http://bit.ly/3oLnkkt)
+
+## [Text Extraction and Analysis Using Amazon Textract and Amazon Comprehend](http://bit.ly/39GeP60)
+
+In this lab we will extract the features of a text document using Amazon Textract. Then use Amazon Comprehend to analyse the extracted features. We will learn how to connect aws services together using AWS Lambda.
+
+Duration: 30 minutes
+
+[View lab instructions](http://bit.ly/39GeP60)
+
+## [Reviewing your code with Amazon CodeGuru Reviewer](http://bit.ly/3tx81Q6)
+
+In this lab, we will walk you through how to associate Amazon CodeGuru with your repo and automate code review by using Amazon CodeGuru Reviewer
+
+Duration: 45 minutes
+
+[View lab instructions](http://bit.ly/3tx81Q6)
+
+## [Enterprise Search with Amazon Kendra](http://bit.ly/3tuJDi7)
+
+In this lab, we will be using Amazon Kendra to setup our own Enterprise Search instance, index HTML/PDF content in Amazon S3, and use a variety of query types to return accurate search results for end users.
+
+Duration: 90 minutes
+
+[View lab instructions](http://bit.ly/3tuJDi7)
 
 ## [AWS Deep Racer Workshop](http://bit.ly/3oIQO2k)
 
@@ -56,27 +79,3 @@ In this lab, we show the different aspects of the machine learning (ML) workflow
 Duration: 180 minutes
 
 [View lab instructions](http://bit.ly/2NQMOjx)
-
-## [Text Extraction and Analysis Using Amazon Textract and Amazon Comprehend](http://bit.ly/39GeP60)
-
-In this lab we will extract the features of a text document using Amazon Textract. Then use Amazon Comprehend to analyse the extracted features. We will learn how to connect aws services together using AWS Lambda.
-
-Duration: 180 minutes
-
-[View lab instructions](http://bit.ly/39GeP60)
-
-## [Reviewing your code with Amazon CodeGuru Reviewer](http://bit.ly/3tx81Q6)
-
-In this lab, we will walk you through how to associate Amazon CodeGuru with your repo and automate code review by using Amazon CodeGuru Reviewer
-
-Duration: 60 minutes
-
-[View lab instructions](http://bit.ly/3tx81Q6)
-
-## [Enterprise Search with Amazon Kendra](http://bit.ly/3tuJDi7)
-
-In this lab, we will be using Amazon Kendra to setup our own Enterprise Search instance, index HTML/PDF content in Amazon S3, and use a variety of query types to return accurate search results for end users.
-
-Duration: 90 minutes
-
-[View lab instructions](http://bit.ly/3tuJDi7)
